@@ -10,12 +10,14 @@ public class ObstacleAnimation : MonoBehaviour {
 	private float randomOffset;
 
 	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
 		randomOffset = Random.Range(0f, 2f);
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		Vector3 pos = transform.position;
 		pos.x = Mathf.Sin(Time.time * speed + randomOffset) * strength;
 		transform.position = pos;
