@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\development\\unityprojects\\navmesh-tutorial\\navmesh example project\\assets\\example01 - basics\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\example01 - basics\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:06:06.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
