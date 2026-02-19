@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour {
 
 	void Start()
 	{
-		agent.updateRotation = false;
+		agent.updateRotation = false; //tells agent to not update rotation
 	}
 
 
@@ -23,21 +23,21 @@ public class PlayerController : MonoBehaviour {
 	{
 		if(Input.GetMouseButtonDown(0)) //left mouse button
 		{
-			Ray ray = cam.ScreenPointToRay(Input.mousePosition);
-			RaycastHit hit;
+			Ray ray = cam.ScreenPointToRay(Input.mousePosition); //converts mouse position to ray when button clicked
+			RaycastHit hit; //stores what ray hits
 
-			if (Physics.Raycast(ray, out hit))
+			if (Physics.Raycast(ray, out hit)) //shoots ray and continues if it hits
 			{
 				//move our agent
 				agent.SetDestination(hit.point);
 			}
 		}
 
-		if(agent.remainingDistance > agent.stoppingDistance)
+		if(agent.remainingDistance > agent.stoppingDistance) //moves if not at destination
 		{
-			character.Move(agent.desiredVelocity, false, false);
+			character.Move(agent.desiredVelocity, false, false); //moves agent, not crouching, not jumping
 		}
-		else
+		else //stops character from moving
 		{
 			character.Move(Vector3.zero, false, false);
 		}

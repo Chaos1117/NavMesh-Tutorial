@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\development\\unityprojects\\navmesh-tutorial\\navmesh example project\\assets\\example01 - basics\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\example01 - basics\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\development\\unityprojects\\navmesh-tutorial\\navmesh example project\\assets\\example03 - runtime\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\example03 - runtime\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\development\\unityprojects\\navmesh-tutorial\\navmesh example project\\assets\\example02 - obstacles\\scripts\\obstacleanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\example02 - obstacles\\scripts\\obstacleanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\development\\unityprojects\\navmesh-tutorial\\navmesh example project\\assets\\example05 - lowman\\lowman\\scripts\\thirdpersoncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\example05 - lowman\\lowman\\scripts\\thirdpersoncharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +36,48 @@
               "RelativeDocumentMoniker": "Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Example01 - Basics\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T23:42:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstacleAnimation.cs",
+              "DocumentMoniker": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example02 - Obstacles\\Scripts\\ObstacleAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Example02 - Obstacles\\Scripts\\ObstacleAnimation.cs",
+              "ToolTip": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example02 - Obstacles\\Scripts\\ObstacleAnimation.cs",
+              "RelativeToolTip": "Assets\\Example02 - Obstacles\\Scripts\\ObstacleAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:11:51.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example03 - Runtime\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Example03 - Runtime\\LevelGenerator.cs",
+              "ToolTip": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example03 - Runtime\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Example03 - Runtime\\LevelGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:11:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPersonCharacter.cs",
+              "DocumentMoniker": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example05 - LowMan\\LowMan\\Scripts\\ThirdPersonCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Example05 - LowMan\\LowMan\\Scripts\\ThirdPersonCharacter.cs",
+              "ToolTip": "C:\\Development\\UnityProjects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example05 - LowMan\\LowMan\\Scripts\\ThirdPersonCharacter.cs",
+              "RelativeToolTip": "Assets\\Example05 - LowMan\\LowMan\\Scripts\\ThirdPersonCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:12:12.927Z",
               "EditorCaption": ""
             }
           ]
